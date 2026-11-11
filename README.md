@@ -1,3 +1,5 @@
+# Local note: Verified Flask API runs on http://127.0.0.1:5000 and /recipes returns seeded data. 
+
 # Recipe Box API
 
 A small, working Flask + SQLite API for keeping recipes. Full CRUD, clean
